@@ -1,0 +1,12 @@
+.button{
+    background-color: 3cff00;
+    color: #3cff00;
+    align-items: center;
+    z-index: 1;
+}
+.number{
+    color: fuchsia;
+    align-items: center;
+    position: relative;
+    font-family: 'PT Sans', sans-serif;
+}
